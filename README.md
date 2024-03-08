@@ -4,3 +4,6 @@ Jedes Androit Gerät mit einer Android Version 9.0 oder höher kann die App nutz
 
 # Wann ist der Release?
 Das Release Datum ist noch unbekannt.
+
+# WDroid Update Manager
+No Updates at this time...
