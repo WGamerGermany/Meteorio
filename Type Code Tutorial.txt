@@ -1,0 +1,35 @@
+Anleitung und Befehle:
+
+1.[tt{  }/tt]
+Dieser Kommand Zeigt Text an, dieser wird in Schwarz weiß angezeigt.
+
+Hier ist ein Bsp.
+[tt{Mein Beispiel Text}/tt]
+
+2.{nn}
+Sorgt für eine Neue Zeile Zweischen Texten.
+
+Hier ist ein Bsp.
+[tt{Erste Zeile{nn}Zweite Zeile}/tt]
+
+3.[tt-color=  / ]
+Ändert die Frabe des Textes.
+
+Hier ist ein Bsp.
+[tt-color=Green /Ein Grün gefärbter Text]
+
+4 [bt-input;  $<  >]
+Erverbindungen Knopf mit einem Link im Hintergrund.
+
+Hier ist ein Bsp.
+[bt-input;
+
+5 [bg{   }]
+
+6 [tt-field$]
+
+7 [nm-field$]
+
+8 [tt-field$ p(placeholder:  )}
+
+9 [nm-field$ p(placeholder:  )}
