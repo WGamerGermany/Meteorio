@@ -28,8 +28,8 @@ Der Standart Browser bei Meteorio ist WBrowse
 # Meteorio - WiWi 
 WiWi wird vor installiert sein damit Sie sicher beim Installieren bleiben können
 
-# Metropol #998
-Metropol ist die Sprache die wir im der PowerEngine genutzt haben um die Systeme zu Designen
+# Metropol #968
+Bald mehr Informationen...
 
 # SAPP'S 
 SAPP'S sind App's die man im WStore Downloaden kann.
