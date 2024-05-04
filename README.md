@@ -3,7 +3,7 @@ Meteorio ist eine Anwendung für Android Geräte.
 Jedes Androit Gerät mit einer Android Version 9.0 oder höher kann die App nutzen.
 
 # Wann ist der Release?
-Das Release Datum ist noch unbekannt.
+Der Release ist am 2.06.2024
 
 # Meteorio Update Manager
 No Updates at this time...
@@ -20,13 +20,13 @@ Jedoch können Sie später einen Anderen oder Custom Launcher nutzen wie zum Bei
 Nur Lizensierte Launcher können genutzt werden!
 
 # SmoothOS - Launcher
-SmoothOS ist eigentlich ein eigenes Betriebssystem jedoch wird bei Metoerio trotzdem gesagt, dass ein anderer Launcher genutzt wird da eigentlich ein OS nur das Design Ihres Gerätes beu Meteorio ändert.
+SmoothOS ist eigentlich ein eigenes Betriebssystem jedoch wird bei Metoerio trotzdem gesagt, dass ein anderer Launcher genutzt wird da eigentlich ein OS nur das Design Ihres Gerätes wie bei Meteorio ändert.
 
 # Browser Info
 Der Standart Browser bei Meteorio ist WBrowse
 
 # Meteorio - WiWi 
-WiWi wird vor installiert sein damit Sie sicher beim Installieren bleiben können
+WiWi wird vorinstalliert sein damit Sie sicher beim Installieren bleiben können
 
 # Metropol #968
 Bald mehr Informationen...
